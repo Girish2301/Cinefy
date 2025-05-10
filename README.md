@@ -58,6 +58,7 @@ npm install
 **Set Your Own TMDB API Token**
 
 ```
+VITE_REACT_APP_TOKEN= your_access_token
 ```
 
 **Run**
